@@ -1,4 +1,4 @@
-nsmre: first
+name: first
 on: push
 jobs:
 	job1:
